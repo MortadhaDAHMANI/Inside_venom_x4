@@ -19,5 +19,4 @@ The Setup process was only available on Windows PC in the past. The newly creati
 
 
 ## User Manual
-
-![alt iviny](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/venomX4-usersManual.pdf)
+* [PDF](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/venomX4-usersManual.pdf "Manual")
