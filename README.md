@@ -15,6 +15,9 @@ The Setup process was only available on Windows PC in the past. The newly creati
 
 ## Inside PCB 
 
-![alt iviny](https://github.com/MortadhaDAHMANI/PySendMail-Attachements/raw/master/LSA2.png)
+![alt Inside](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/VPCB.jpg)
+
+
+## User Manual
 
 ![alt iviny](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/venomX4-usersManual.pdf)
