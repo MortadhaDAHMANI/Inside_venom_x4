@@ -11,10 +11,10 @@ The new Venom-X4 mouse has been upgraded with a 12000CPI sensor, 250IPS max spee
 
 The Setup process was only available on Windows PC in the past. The newly creative Wi-Fi solution will release you from running back & forth between your console & PC, you can update the profiles and adjust the settings at the console site while you are in the game.
 
-![alt iviny](https://github.com/MortadhaDAHMANI/PySendMail-Attachements/raw/master/LSA2.png)
+![alt iviny](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/venom.jpg)
 
 ## Inside PCB 
 
 ![alt iviny](https://github.com/MortadhaDAHMANI/PySendMail-Attachements/raw/master/LSA2.png)
 
-![alt iviny](https://github.com/MortadhaDAHMANI/PySendMail-Attachements/raw/master/LSA2.pdf)
+![alt iviny](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/venomX4-usersManual.pdf)
