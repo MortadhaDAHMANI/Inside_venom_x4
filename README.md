@@ -15,8 +15,8 @@ The Setup process was only available on Windows PC in the past. The newly creati
 
 ## Inside PCB 
 
-![alt Inside](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/VPCB.jpg)
+![alt Inside](https://github.com/MortadhaDAHMANI/Inside_venom_x4/blob/main/VPCB.jpg)
 
 
 ## User Manual
-* [PDF](https://github.com/MortadhaDAHMANI/venom-x4-inside/blob/main/venomX4-usersManual.pdf "Manual")
+* [PDF](https://github.com/MortadhaDAHMANI/Inside_venom_x4/blob/main/venomX4-usersManual.pdf "Manual")
